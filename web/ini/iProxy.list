@@ -1,0 +1,62 @@
+# IP段匹配
+# IP-CIDR,142.171.133.131/32,no-resolve
+# IP-CIDR,104.236.69.0/24,no-resolve
+
+# MISSAV
+DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,fourhoi.com
+DOMAIN-SUFFIX,r.trackwilltrk.com
+DOMAIN-SUFFIX,trackwilltrk.com
+DOMAIN-SUFFIX,cdn.storageimagedisplay.com
+DOMAIN-SUFFIX,tsyndicate.com
+DOMAIN-SUFFIX,cdn.tsyndicate.com
+DOMAIN-SUFFIX,pxl.tsyndicate.com
+DOMAIN-SUFFIX,client-rapi-missav.recombee.com
+DOMAIN-SUFFIX,hartattenuate.com
+DOMAIN-SUFFIX,nannyirrationalacquainted.com
+DOMAIN-SUFFIX,recordedthereby.com
+DOMAIN-SUFFIX,unseenreport.com
+DOMAIN-SUFFIX,cdn.plyr.io
+DOMAIN-SUFFIX,go.xlivrdr.com
+DOMAIN-SUFFIX,surrit.com
+DOMAIN-SUFFIX,tsvideo.saawsedge.com
+DOMAIN-SUFFIX,magsrv.com
+DOMAIN-SUFFIX,ad.twinrdengine.com
+DOMAIN-SUFFIX,dxzvw.com
+DOMAIN-SUFFIX,tsvideo.sacdnssedge.com
+
+# javhdporn.net
+DOMAIN-SUFFIX,2443march2024.com
+DOMAIN-SUFFIX,abb030d6a7.com
+DOMAIN-SUFFIX,4fc2d0c0e2.abb030d6a7.com
+DOMAIN-SUFFIX,akumachi.com
+DOMAIN-SUFFIX,wpadmngr.com
+DOMAIN-SUFFIX,js.wpadmngr.com
+DOMAIN-SUFFIX,jads.co
+DOMAIN-SUFFIX,poweredby.jads.co
+DOMAIN-SUFFIX,cdn-centaurus.com
+DOMAIN-SUFFIX,zqvnzsxicfeh.cdn-centaurus.com
+
+# javmost.com
+DOMAIN-KEYWORD,jwpltx
+DOMAIN-KEYWORD,prd.jwpltx
+DOMAIN-KEYWORD,dtsan
+DOMAIN-KEYWORD,exosrv
+DOMAIN-KEYWORD,turboviplay
+DOMAIN-KEYWORD,dtscout
+DOMAIN-KEYWORD,turbosplayer
+DOMAIN-KEYWORD,capndr
+DOMAIN-KEYWORD,adsrvr
+DOMAIN-KEYWORD,nawpush
+DOMAIN-KEYWORD,dtscdn
+DOMAIN-KEYWORD,sptvp
+DOMAIN-KEYWORD,amung
+DOMAIN-KEYWORD,dba1bc1fdf
+DOMAIN-KEYWORD,metricswpsh
+DOMAIN-KEYWORD,wpshsdk
+DOMAIN-KEYWORD,wpushsdk
+DOMAIN-KEYWORD,afcdn
+DOMAIN-KEYWORD,zeotap
+DOMAIN-KEYWORD,multstorage
+DOMAIN-KEYWORD,sacdnssedge	
+DOMAIN-KEYWORD,xlivrdr
